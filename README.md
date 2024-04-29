@@ -1,3 +1,3 @@
-# flutter_application_2
+# todo_app
 
-A new Flutter project.
+App with Rivepod State Management!
